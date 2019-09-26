@@ -20,13 +20,15 @@
     ],
     "paths": {
       "lib1": [
-        "dist/lib1"
+        "dist/lib1",
+        "projects/lib1/src/public_api.ts"
       ],
       "lib1/*": [
         "dist/lib1/*"
       ],
       "lib2": [
-        "dist/lib2"
+        "dist/lib2",
+        "projects/lib2/src/public_api.ts"
       ],
       "lib2/*": [
         "dist/lib2/*"

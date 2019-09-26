@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Lib2Component } from './lib2.component';
-import { Lib1Module } from 'projects/lib1/src/public-api';
+import { Lib1Module } from 'lib1';
 
 
 
